@@ -1,0 +1,9 @@
+opcoes>
+central de confiabilidade>
+Confg. de central>
+configurações de macro> habilitar macro vba (nao recomendado)> habilitar macro do excel 4.0>
+Modo de exibição protegido> desmarca as duas primeiras opções, no caso desabilitar, sempre vem marcado>
+Config. de bloqueio de arquivo> marcar a ultima opção - abrir arquivos selecionados no modo exibição protegido e permitir edição.
+
+
+
